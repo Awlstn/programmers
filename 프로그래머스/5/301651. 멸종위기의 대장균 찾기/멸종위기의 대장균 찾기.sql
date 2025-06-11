@@ -1,4 +1,4 @@
--- 코드를 작성해주세요
+# -- 코드를 작성해주세요
 WITH RECURSIVE HIERARCHY_CTE AS (
     SELECT ID, 1 AS GENERATION
     FROM ECOLI_DATA
